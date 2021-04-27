@@ -1,6 +1,6 @@
 ### Sup 👋
 
-- 🔭 I’m currently working on: a side project to help manage your gaming backlog
+- 🔭 I’m currently working on: a side project to help manage your video game backlog 🎮
 - 🌱 I’m currently learning: authentication and diving deeper into the backend
 - 💬 Ask me about: my crazy cat, Callie 😼
 - 😄 Pronouns: she/her
